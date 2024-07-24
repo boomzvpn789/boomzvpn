@@ -374,8 +374,8 @@ print_ok "Selesai pemasangan modul tambahan"
 }
 
 
-       ###################
-        # จัดทำโดย เจฟ.เจฟ   #
+########## SETUP FROM HERE ##########
+# ORIGINAL SCRIPT BY NEVERMORESSH   #
 #####################################
 echo "INSTALLING SCRIPT..."
 
