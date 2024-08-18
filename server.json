@@ -1,8 +1,8 @@
 {
-    "version": 2.0,
+    "version": 2.1,
     "message": "
 _____________________________
-อัพเดทไฟล์ 2.0 แอป 443 VPN
+อัพเดทไฟล์ 2.1 แอป 443 VPN
 _____________________________
    🔮 รอง รับ ซิม 🔮
 🚀 ᴛʜ ᴀɪs ᴘɪʟᴀʏ
@@ -75,10 +75,10 @@ _____________________________
     "name": "Thailand 5 DTAC ID โซเชียวทั่วไป",
     "content": "vless://bbdc4c64-e15f-4584-9121-7bac62529fe0@dtac.boomzvpn.cloud:80?security=none&encryption=none&type=ws&host=www.opensignal.com.th5.boomzvpn.cloud&path=/vless#443DTAC"
     },{
-    "name": "Thailand 6 DTAC ID สำหรับ เกมส์,
+    "name": "Thailand 6 DTAC ID สำหรับ เกมส์",
     "content": "vless://20e36520-d603-4bd9-9536-5f345a80d0e2@dtac.boomzvpn.cloud:80?security=none&encryption=none&type=ws&host=th6.boomzvpn.cloud&path=/vless#dtac_vip1"
     },{
-    "name": "Thailand 7 DTAC ID สำหรับ เกมส์,
+    "name": "Thailand 7 DTAC ID สำหรับ เกมส์",
     "content": "vless://20e36520-d603-4bd9-9536-5f345a80d0e2@dtac.boomzvpn.cloud:80?security=none&encryption=none&type=ws&host=th6.boomzvpn.cloud&path=/vless#dtac_vip1"
     }
     ]
