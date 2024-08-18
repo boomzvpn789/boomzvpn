@@ -1,8 +1,8 @@
 {
-    "version": 1.9,
+    "version": 2.0,
     "message": "
 _____________________________
-อัพเดทไฟล์ 1.9 แอป 443 VPN
+อัพเดทไฟล์ 2.0 แอป 443 VPN
 _____________________________
    🔮 รอง รับ ซิม 🔮
 🚀 ᴛʜ ᴀɪs ᴘɪʟᴀʏ
@@ -35,10 +35,10 @@ _____________________________
     },{
     "name": "Thailand 6 TRUE NOPRO สำหรับ เกมส์",
     "content": "vless://20e36520-d603-4bd9-9536-5f345a80d0e2@104.17.164.123:80?security=none&encryption=none&type=ws&host=th6.boomzvpn.cloud&path=/vless#True_vip1"
-   },{
+    },{
     "name": "Thailand 7 TRUE NOPRO สำหรับ เกมส์",
     "content": "vless://20e36520-d603-4bd9-9536-5f345a80d0e2@104.17.164.123:80?security=none&encryption=none&type=ws&host=th6.boomzvpn.cloud&path=/vless#True_vip1"
-   },{
+    },{
     "name": "Thailand 1 AIS PLAY 64K โซเชียวทั่วไป",
     "content": "vless://739c0c64-781f-4f47-8a2e-5d8eab5f4417@www.opensignal.com.th1.boomzvpn.cloud:80?security=none&encryption=none&type=ws&host=www.speedtest.net&path=/vless#443AIS1"
     },{
