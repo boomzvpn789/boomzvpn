@@ -1,8 +1,8 @@
 {
-    "version": 3.5,
+    "version": 3.6,
     "message": "
 _________________________
-อัพเดทไฟล์ 3.5 แอป 443 VPN
+อัพเดทไฟล์ 3.6 แอป 443 VPN
 _________________________
 🚀 ᴛʜ ᴀɪs ᴘɪʟᴀʏ
 🚀 เพิ่ม ᴛʜ ᴛʀᴜᴇ ɴᴏᴘʀᴏ
@@ -40,9 +40,6 @@ _________________________
     "name": "Thailand TH_9 TRUE SOCIAL 🎮",
     "content": "vless://ff338c84-2211-40f3-8b66-1393248c9a60@www.opensignal.com.th1.boomzvpn.cloud:443?security=tls&encryption=none&type=grpc&sni=facebook.com&fp=chrome&serviceName=vless-grpc#koala1"
     },{
-    "name": "Thailand TH_10 TRUE SOCIAL 🎮",
-    "content": "vless://ff338c84-2211-40f3-8b66-1393248c9a60@www.opensignal.com.th1.boomzvpn.cloud:443?security=tls&encryption=none&type=grpc&sni=facebook.com&fp=chrome&serviceName=vless-grpc#koala1"
-    },{
     "name": "Thailand TH_1 AIS PLAY 64K 🎮",
     "content": "vless://3038f0ef-118c-4cf5-b4af-bc732ec2b5be@www.opensignal.com.th2.boomzvpn.cloud:80?security=none&encryption=none&type=ws&host=www.speedtest.net&path=/vless#koala2"
     },{
@@ -68,9 +65,6 @@ _________________________
     "content": "vmess://eyJuZXQiOiJ3cyIsInRscyI6Im5vbmUiLCJ2IjoiMiIsImFpZCI6IjAiLCJwcyI6IlhSQVlfVk1FU1NfTk9OX1RMU19Cb3RWUE4xIiwiYWRkIjoid3d3Lm9wZW5zaWduYWwuY29tLnRoZTEuaWRjLmJvb216dnBuLmNsb3VkIiwiaGVhZGVyVHlwZSI6IiIsInNlZWQiOiIiLCJhbHBuIjoiIiwidHlwZSI6Im5vbmUiLCJpZCI6IjdlMzAyYjYzLTY0M2EtNDE1OC1iNzkwLWQ1MmEzYTMwNWRiMSIsInBvcnQiOiI4MCIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsInBhdGgiOiJcL3ZtZXNzLW50bHMiLCJzZXJ2aWNlTmFtZSI6Im5vbmUiLCJzbmkiOiIiLCJkZXZpY2VJRCI6IiIsImZwIjoiIn0="
     },{
     "name": "Thailand TH_9 AIS PLAY 64K 🎮",
-    "content": "vmess://eyJuZXQiOiJ3cyIsInRscyI6Im5vbmUiLCJ2IjoiMiIsImFpZCI6IjAiLCJwcyI6IlhSQVlfVk1FU1NfTk9OX1RMU19Cb3RWUE4xIiwiYWRkIjoid3d3Lm9wZW5zaWduYWwuY29tLnRoZTEuaWRjLmJvb216dnBuLmNsb3VkIiwiaGVhZGVyVHlwZSI6IiIsInNlZWQiOiIiLCJhbHBuIjoiIiwidHlwZSI6Im5vbmUiLCJpZCI6IjdlMzAyYjYzLTY0M2EtNDE1OC1iNzkwLWQ1MmEzYTMwNWRiMSIsInBvcnQiOiI4MCIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsInBhdGgiOiJcL3ZtZXNzLW50bHMiLCJzZXJ2aWNlTmFtZSI6Im5vbmUiLCJzbmkiOiIiLCJkZXZpY2VJRCI6IiIsImZwIjoiIn0="
-    },{
-    "name": "Thailand TH_10 AIS PLAY 64K 🎮",
     "content": "vmess://eyJuZXQiOiJ3cyIsInRscyI6Im5vbmUiLCJ2IjoiMiIsImFpZCI6IjAiLCJwcyI6IlhSQVlfVk1FU1NfTk9OX1RMU19Cb3RWUE4xIiwiYWRkIjoid3d3Lm9wZW5zaWduYWwuY29tLnRoZTEuaWRjLmJvb216dnBuLmNsb3VkIiwiaGVhZGVyVHlwZSI6IiIsInNlZWQiOiIiLCJhbHBuIjoiIiwidHlwZSI6Im5vbmUiLCJpZCI6IjdlMzAyYjYzLTY0M2EtNDE1OC1iNzkwLWQ1MmEzYTMwNWRiMSIsInBvcnQiOiI4MCIsImhvc3QiOiJ3d3cuc3BlZWR0ZXN0Lm5ldCIsInBhdGgiOiJcL3ZtZXNzLW50bHMiLCJzZXJ2aWNlTmFtZSI6Im5vbmUiLCJzbmkiOiIiLCJkZXZpY2VJRCI6IiIsImZwIjoiIn0="
     },{
     "name": "Thailand TH_1 DTAC TEUEID 🎮",
